@@ -1,0 +1,6 @@
+Category,Item,Quantity,Supplier,Unit Cost (USD),Total Cost (USD),Notes
+PCB manufacturing,JLCPCB order,1,JLCPCB,134.68,134.68,"JLCPCB order subtotal, excluding FedEx shipping"
+Shipping,FedEx shipping,1,JLCPCB / FedEx,27.19,27.19,Included in the quoted JLCPCB total
+Passive components,SMD resistors,As required,Daraz,0.0,0.0,Already owned
+Passive components,SMD capacitors,As required,Daraz,0.0,0.0,Already owned
+TOTAL,Total project cost,,,,161.87,,Includes FedEx shipping; excludes already-owned resistors and capacitors
